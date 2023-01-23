@@ -1,4 +1,4 @@
-# x12Tojson Snowflake Native App
+# EDI X12 Standard Transaction JSON Converte Snowflake Native App
 
 
 Business Need:
@@ -23,7 +23,7 @@ Expected Workflow in Snowflake:
 4. Once added, the app will be discoverable for the customer to implement
 
 
-Conctact us at https://concordusa.com/contactus to learn more about x12Tojson SaaS and what its capabilities can do for your business.
+Conctact us at https://concordusa.com/contactus to learn more about EDI X12 Standard Transaction JSON Converter SaaS and what its capabilities can do for your business.
 
 
 
